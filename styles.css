@@ -1,0 +1,35 @@
+.body{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+}
+
+.title{
+    color: rgb(2, 106, 233);
+}
+
+.box{
+    border: 10px solid;
+    border-radius: 20px;
+    border-left: 10px;
+    border-right: 10px;
+    border-width: 10px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.main{
+    border:10px solid;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color:blue;
+    border-top: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.summary{
+    padding-left:10px;
+    padding-right: 10px;
+}
